@@ -1,0 +1,1 @@
+print("Trendo Bot Started...")
