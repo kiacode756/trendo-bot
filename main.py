@@ -1,1 +1,0 @@
-print("Trendo Bot Started...")
