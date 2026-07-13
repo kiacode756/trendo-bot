@@ -1,7 +1,6 @@
-from config import API_ID
+import asyncio
+from telegram_reader import start
 
-print("===================================")
-print(" Trendo Telegram Bot Started ")
-print("===================================")
+print("Starting Trendo Bot...")
 
-print("API ID:", API_ID)
+asyncio.run(start())
