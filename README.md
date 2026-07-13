@@ -1,1 +1,0 @@
-# trendo-bot
